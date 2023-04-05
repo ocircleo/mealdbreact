@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "index": 0,
+      "picture": "https://www.themealdb.com/images/category/beef.png",
+      "name": "Beef",
+      "about": "Eu veniam elit Lorem eu. Non aliquip ut eu esse aliquip ad culpa ad Lorem aliqua. Velit amet officia laboris duis fugiat sunt laborum. Quis velit duis pariatur et eu amet consectetur reprehenderit enim ullamco anim labore nulla. Dolore ullamco quis laboris aliqua aliquip amet eiusmod non excepteur nisi et est qui culpa. Nisi minim id esse et aute esse nostrud et. Amet ex occaecat ea ex aliqua.\r\n"
+    },
+    {
+      "id": 2,
+      "index": 1,
+      "picture": "https://www.themealdb.com/images/category/chicken.png",
+      "name": "Chicken",
+      "about": "Reprehenderit duis aliqua est consectetur deserunt sit consequat magna magna ex culpa mollit consectetur officia. Est consequat irure enim velit velit adipisicing ea deserunt ea. Aute fugiat laborum Lorem ea aliqua id id. Enim anim est ad laboris eiusmod cupidatat ullamco mollit in labore ut elit. Mollit elit quis velit duis ex pariatur et. Cupidatat deserunt consectetur culpa velit quis qui elit deserunt consequat culpa.\r\n"
+    },
+    {
+      "id": 3,
+      "index": 2,
+      "picture": "https://www.themealdb.com/images/category/dessert.png",
+      "name": "Dessert",
+      "about": "Et sunt tempor velit ea incididunt Lorem velit est non ullamco commodo quis. Dolor dolor deserunt cupidatat id est culpa incididunt sint incididunt labore. Irure ullamco eu est consectetur occaecat. Aliquip veniam sint officia proident aliquip cillum deserunt in anim.\r\n"
+    },
+    {
+      "id": 4,
+      "index": 3,
+      "picture": "https://www.themealdb.com/images/category/lamb.png",
+      "name": "Lamb",
+      "about": "Esse veniam qui dolor cupidatat Lorem qui do consectetur et deserunt aliquip tempor ad. Do deserunt commodo laboris eiusmod ad excepteur eiusmod nisi. In pariatur consequat laboris proident ut amet non ullamco. Qui pariatur laborum ea ullamco qui quis est amet sunt labore duis minim officia. Fugiat adipisicing sit sint sunt nulla enim magna. Dolor culpa magna sit est enim enim adipisicing ex. Tempor dolor ea aliquip irure proident ullamco enim aliqua.\r\n"
+    },
+    {
+      "id": 5,
+      "index": 4,
+      "picture": "https://www.themealdb.com/images/category/miscellaneous.png",
+      "name": "Miscellaneous",
+      "about": "Ad ea nulla do ipsum irure aute proident amet. Magna commodo commodo voluptate commodo voluptate irure cillum deserunt culpa nostrud excepteur duis labore. Dolore non esse occaecat elit id esse. Esse labore excepteur cillum tempor cillum elit. Anim culpa est tempor est labore non qui laboris. Culpa culpa qui non proident Lorem nulla. Nostrud irure officia cillum ut do consectetur quis sunt ullamco dolor sint ullamco fugiat laborum.\r\n"
+    },
+    {
+      "id": 6,
+      "index": 5,
+      "picture": "https://www.themealdb.com/images/category/pasta.png",
+      "name": "Pasta",
+      "about": "Proident sit irure amet elit. Veniam adipisicing elit non do adipisicing commodo non exercitation irure eu. Fugiat cillum anim fugiat ad tempor consectetur nulla in.\r\n"
+    },
+    {
+      "id": 7,
+      "index": 6,
+      "picture": "https://www.themealdb.com/images/category/seafood.png",
+      "name": "Seafood",
+      "about": "Commodo id deserunt duis occaecat duis duis. Eu cillum qui culpa elit dolore do est laborum. Cupidatat adipisicing officia dolor nisi. Deserunt id cupidatat qui aliquip cillum esse occaecat laboris ut.\r\n"
+    },
+    {
+      "id": 8,
+      "index": 7,
+      "picture": "https://www.themealdb.com/images/category/breakfast.png",
+      "name": "Breakfast",
+      "about": "Magna ipsum non tempor qui nostrud. Sit dolore cupidatat qui culpa laboris laborum aute amet cillum irure sint cupidatat. Enim incididunt adipisicing nulla amet pariatur nisi est sit veniam officia excepteur.\r\n"
+    },
+    {
+      "id": 9,
+      "index": 8,
+      "picture": "https://www.themealdb.com/images/category/side.png",
+      "name": "Side",
+      "about": "Laboris labore exercitation minim ullamco adipisicing ipsum irure dolor. Veniam id excepteur sit dolor esse exercitation proident mollit incididunt velit incididunt irure. Voluptate sunt qui aliqua officia aute id ipsum non do consequat eu qui officia. Cupidatat laborum eu enim officia duis nisi quis ad ad. Incididunt eiusmod aliquip ut sunt.\r\n"
+    },
+    {
+      "id": 10,
+      "index": 9,
+      "picture": "https://www.themealdb.com/images/category/starter.png",
+      "name": "Starter",
+      "about": "Veniam dolore officia sunt irure. Est fugiat ullamco ipsum ut dolore aute Lorem qui eiusmod exercitation deserunt enim id. Lorem tempor nulla mollit ut dolor. Adipisicing deserunt ipsum dolore esse pariatur minim. Occaecat ex Lorem duis duis est esse consequat labore anim occaecat. Veniam laboris sit Lorem laboris culpa ipsum. Duis nisi et culpa cillum sit esse.\r\n"
+    },
+    {
+      "id": 11,
+      "index": 10,
+      "picture": "https://www.themealdb.com/images/category/vegan.png",
+      "name": "Vegan",
+      "about": "Quis magna occaecat dolore amet consequat cupidatat sint sint velit consectetur amet qui amet nulla. Ullamco sint aute ad sint elit excepteur sunt excepteur cupidatat nostrud proident id sunt exercitation. Lorem nostrud officia pariatur elit. Reprehenderit nostrud mollit anim officia ad. Consectetur eu anim enim magna ad tempor ea. Duis ullamco laboris magna pariatur sit mollit esse cillum exercitation enim laboris magna qui non. Qui labore ad tempor sint incididunt ea laboris est sunt nulla elit.\r\n"
+    },
+    {
+      "id": 12,
+      "index": 11,
+      "picture": "https://www.themealdb.com/images/category/vegetarian.png",
+      "name": "Vegetarian",
+      "about": "Quis magna occaecat dolore amet consequat cupidatat sint sint velit consectetur amet qui amet nulla. Ullamco sint aute ad sint elit excepteur sunt excepteur cupidatat nostrud proident id sunt exercitation. Lorem nostrud officia pariatur elit. Reprehenderit nostrud mollit anim officia ad. Consectetur eu anim enim magna ad tempor ea. Duis ullamco laboris magna pariatur sit mollit esse cillum exercitation enim laboris magna qui non. Qui labore ad tempor sint incididunt ea laboris est sunt nulla elit.\r\n"
+    }
+  ]
